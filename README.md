@@ -1,2 +1,2 @@
 # nodeJs
-NodeJs Samples
+NodeJs Samples is a list of nodejs projects.
