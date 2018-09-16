@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MEANStackSample", "MEANStackSample.njsproj", "{982DF8B6-F139-4E7A-942E-F91B9E6AC43F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndClient", "..\FrontEndClient\FrontEndClient.csproj", "{17308574-A0C7-41CA-9C9C-2CB6841EC499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{982DF8B6-F139-4E7A-942E-F91B9E6AC43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{982DF8B6-F139-4E7A-942E-F91B9E6AC43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{982DF8B6-F139-4E7A-942E-F91B9E6AC43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17308574-A0C7-41CA-9C9C-2CB6841EC499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17308574-A0C7-41CA-9C9C-2CB6841EC499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17308574-A0C7-41CA-9C9C-2CB6841EC499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17308574-A0C7-41CA-9C9C-2CB6841EC499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

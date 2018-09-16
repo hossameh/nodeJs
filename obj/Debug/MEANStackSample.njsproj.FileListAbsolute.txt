@@ -1,0 +1,2 @@
+D:\nodeJsTest\MEANStackSample\obj\Debug\MEANStackSample.njsproj.CoreCompileInputs.cache
+D:\nodeJsTest\MEANStackSample\bin\Microsoft.NodejsTools.WebRole.dll
